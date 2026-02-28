@@ -11,7 +11,7 @@
 
 #### 1. 进入项目目录
 ```bash
-cd c:\Users\80468\Documents\trae_projects\123asd\openclaw-installer
+cd c:\Users\你的实际目录openclaw-installer
 ```
 
 #### 2. 查看帮助信息
